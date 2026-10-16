@@ -2,4 +2,4 @@
 
 If you want a new update, here is the Discord:
 
-# vegsas
+https://discord.gg/2u5kAGMv5
