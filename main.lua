@@ -6,8 +6,8 @@ local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
 -- ==========================================
 -- AYARLAR (Burayı kendine göre düzenle)
 -- ==========================================
-local CORRECT_KEY = "WEXAS-KEY-2026" -- Buraya geçerli olan anahtarı yazıyorsun.
-local DISCORD_URL = "https://discord.gg/senindiscordun" -- "Get Key" butonunun yönlendireceği Discord / Link adresi
+local CORRECT_KEY = "MNC-9vR3-K8zW-2pT0" -- Buraya geçerli olan anahtarı yazıyorsun.
+local DISCORD_URL = "https://discord.gg/NNC49P77Mh" -- "Get Key" butonunun yönlendireceği Discord / Link adresi
 -- ==========================================
 
 -- Key Sistemi Arayüzü (ScreenGui)
